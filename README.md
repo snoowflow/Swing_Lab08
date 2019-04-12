@@ -1,1 +1,2 @@
-# Swing_Lab08
+Работа с таймерами Swing
+![srcreenshot](Bus.png)
